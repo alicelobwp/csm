@@ -21,8 +21,4 @@
 
 > 🚧 Em desenvolvimento...
 
-## 📚 Objetivos do Projeto
 
-- Aprendizado e prática de tecnologias modernas
-- Estruturação de um sistema escalável de conteúdo
-- Design limpo e UX acessível
