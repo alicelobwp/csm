@@ -1,4 +1,4 @@
-#🗂️ Sistema de gerenciamento de conteúdo
+# 🗂️ Sistema de gerenciamento de conteúdo
 
 
 - Sistema capaz de criar, gerar e publicar conteúdo. Utilizado como dashboard para uso pessoal, implementação de boas práticas com o objetivo de um desenvolvimento fullstack
