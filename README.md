@@ -4,10 +4,9 @@
 - Sistema capaz de criar, gerar e publicar conteúdo. Utilizado como dashboard para uso pessoal, implementação de boas práticas com o objetivo de um desenvolvimento fullstack
 
 ## 🚀 Tecnologias Utilizadas
-
-- **Python** – Backend e lógica de negócios
-- **TypeScript** – Frontend com tipagem estática
-- **TailwindCSS** – Estilização moderna e responsiva
+- **Python**
+- **TypeScript**
+- **Tailwind**
 
 ## 🎯 Funcionalidades previstas
 
